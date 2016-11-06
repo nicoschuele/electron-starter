@@ -1,0 +1,9 @@
+#directories
+node_modules
+dist
+ElectronStarter-darwin-x64
+
+#files
+*.tgz
+*.log
+.DS_Store
