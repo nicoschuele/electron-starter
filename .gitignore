@@ -1,7 +1,7 @@
 #directories
 node_modules
 dist
-ElectronStarter-darwin-x64
+Electron-Starter-darwin-x64
 
 #files
 *.tgz
