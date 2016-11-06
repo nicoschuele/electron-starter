@@ -4,7 +4,7 @@
   "main": "main.js",
   "scripts": {
     "start": "electron .",
-    "build": "electron-packager . Electron-Starter --platform=darwin --arch=x64 --version=1.0.0 --overwrite"
+    "build": "electron-packager . Electron-Starter --platform=darwin --arch=x64 --version=1.0.0 --icon=app/icons/electron-starter.icns --overwrite"
   },
   "devDependencies": {
     "electron": "^1.4.5",
